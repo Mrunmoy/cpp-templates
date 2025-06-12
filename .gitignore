@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# output
+
+build/
+cmake-build-*/
+CMakeFiles/
+CmakeCache.txt
+Makefile
+cmake_install.cmake
+.idea/
+.vscode
+.DS_Store
+Thumbs.db
+
+
